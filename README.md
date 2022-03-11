@@ -1,5 +1,6 @@
 # D4
-#python3 tools #4/5
+# python
+# 2004-2005 Idz Cloning Tool
 
 pkg update
 
